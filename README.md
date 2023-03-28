@@ -3,6 +3,7 @@ Class: Data Analysis Course 1
 Step 2: Project Plan Scope
 Project Objective: Rental Property income and expense comparison
 Statement of Work:  Compare multiple property income and expenses and see if the incoming funds are greater than the expenses being paid out over a couple of years. 
+
 Mock up of Data: Property Date, Source(CC,Cash), Description of Item, Cost/Income, Running Total
 
 
